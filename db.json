@@ -1,5 +1,6 @@
 {
   "users": [
+<<<<<<< HEAD
 {
   "id": 3,
   "name": "Andrei",
@@ -10,3 +11,16 @@
 ]
   
 }
+=======
+    {
+    "id": 2,
+    "name": "dog",
+    "surname": "wiener",
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx7nklibsfidS4ZR3x2fHBlcOOvf_HdzCVw&s",
+    "balance": 10000
+  }
+  ]
+
+}
+    
+>>>>>>> 1a1c8f8d2abc7ebb38f5cd1aa54689a6231aa47a
